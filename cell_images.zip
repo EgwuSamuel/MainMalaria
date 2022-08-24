@@ -1,0 +1,557 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  
+
+
+  
+  <title>LHNCBC Full Download List</title>
+  <link rel="stylesheet" href="/assets/uswds-2.4.0/css/uswds.min.css" />
+  <link rel="stylesheet" href="/assets/stylesheets/LHC_main.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+ 
+<script src="https://assets.nlm.nih.gov/jquery/jquery-latest.min.js"></script>
+<script src="https://www.nlm.nih.gov/home_assets/vendor/bootstrap/dist/js/bootstrap.bundle.js"></script> 
+ <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-59GQ6JK');</script>
+<!-- End Google Tag Manager -->
+</head>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-59GQ6JK"
+height="0" width="0" style="display:none;visibility:hidden" title="googletagmanager"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  <div class="usa-overlay"></div>
+  
+  
+  <header class="usa-header usa-header--extended insertheader">
+  
+    
+
+  
+
+
+ 
+   
+  
+    
+   <div class="usa-nav-layout grid-row">
+
+<!--div class="shutdown text-white">
+<p>Because of a lapse in government funding, the information on this website may not be up to date, transactions submitted via the website may not be processed, and the agency may not be able to respond to inquiries until appropriations are enacted.
+The NIH Clinical Center (the research hospital of NIH) is open. For more details about its operating status, please visit <a href="https://cc.nih.gov/" target="_blank" class="text-white text-underline">cc.nih.gov</a>.
+Updates regarding government operating status and resumption of normal operations can be found at <a href="https://www.usa.gov/" target="_blank" class="text-white text-underline">USA.gov</a>.</p>
+</div-->
+ 
+     <div class="usa-logo grid-col-10" id="extended-logo">
+
+      <div class="header-logo" style="line-height:1rem;">
+        <div class="display-flex flex-row flex-align-center">
+            <div>
+              <a href="https://www.nih.gov"><img src="/assets/images/logo-NIH-block.png" alt="NIH logo chevron"></a>
+            </div>    
+            <div class="display-flex flex-column">
+              <a href="https://www.nlm.nih.gov">
+                <img src="/assets/images/logo-NLM-block.png" alt="portion of logo that reads National Library of Medicine">
+              </a>
+              <a href="/index.html">
+                <img src="/assets/images/logo-LHC-block.png" alt="portion of logo that reads Lister Hill National Center for Biomedical Communications">
+              </a>
+            </div>
+        </div>
+
+      <!--div class="header-logo"-->
+        <!--object type="image/svg+xml"  data="/assets/images/LHNCBC_white.png" class="logo"></object-->
+
+      </div>
+    </div>
+    <div class="LHC-menu grid-col-2 display-flex flex-row flex-justify-end flex-align-center">
+      <button class="usa-menu-btn"><i class="fas fa-bars fa-2x" title="3 bar menu button"></i></button>
+    </div>
+  </div>
+
+
+    <nav aria-label="Primary navigation" class="usa-nav">
+      <div class="usa-nav__inner">
+        <button class="usa-nav__close"><img src="/assets/images/close.svg" alt="close"></button>
+        <div class="nav-container">
+          <ul class="usa-nav__primary usa-accordion">
+            <li class="usa-nav__primary-item">
+              <button class="usa-accordion__button usa-nav__link  researchButton" aria-expanded="false"
+                aria-controls="extended-nav-section-one"><span>RESEARCH/R&amp;D</span>
+              </button>
+              <ul id="extended-nav-section-one" class="usa-nav__submenu" hidden>
+                <li class="usa-nav__submenu-item">
+                  <a href="/LHC-research/research-areas.html">Research/R&amp;D Areas</a>
+                </li>
+                <li class="usa-nav__submenu-item">
+                  <a href="/LHC-research/project-list.html">LHNCBC Project List</a>
+                </li>
+              </ul>
+            </li>
+            <li class="usa-nav__primary-item">
+              <a class="usa-nav__link publicationsButton" href="/LHC-publications/publications.html"><span>PUBLICATIONS</span></a>
+            </li>
+            <li class="usa-nav__primary-item">
+              <a class="usa-nav__link downloadsButton" href="/LHC-downloads/downloads.html"><span>DOWNLOADS</span></a>
+            </li>
+            <li class="usa-nav__primary-item">
+              <button class="usa-accordion__button usa-nav__link newseventsButton" aria-expanded="false"
+                aria-controls="extended-nav-section-four"><span>NEWS/EVENTS</span>
+              </button>
+              <ul id="extended-nav-section-four" class="usa-nav__submenu" hidden>
+                <li class="usa-nav__submenu-item">
+                  <a href="/LHC-news-events/news/news.html">News</a>
+                </li>
+                <li class="usa-nav__submenu-item">
+                  <a href="/LHC-news-events/events/events.html">Events</a>
+                </li>
+              </ul>
+            <li class="usa-nav__primary-item">
+              <a class="usa-nav__link personnelButton" href="/LHC-personnel/personnel.html"><span>PERSONNEL</span></a>
+            </li>
+            <li class="usa-nav__primary-item">
+              <button class="usa-accordion__button usa-nav__link aboutButton" aria-expanded="false"
+                aria-controls="extended-nav-section-six"><span>ABOUT</span>
+              </button>
+              <ul id="extended-nav-section-six" class="usa-nav__submenu" hidden>
+                <li class="usa-nav__submenu-item">
+                  <a href="/LHC-about/about.html">About LHNCBC</a>
+                </li>
+                <li class="usa-nav__submenu-item">
+                  <a href="/LHC-about/directors-page.html">Meet the Director</a>
+                </li>
+                <li class="usa-nav__submenu-item">
+                  <a href="/LHC-about/branches.html">LHNCBC Branches</a>
+                </li>
+                <li class="usa-nav__submenu-item">
+                  <a href="https://www.nih.gov/about-nih/visitor-information" target="_blank">Visit LHNCBC</a>
+                </li>
+              </ul>
+          </ul>
+        </div>
+
+        <div class="usa-nav__secondary">
+          
+          
+                     <form class="usa-search usa-search--small" method="GET" action="/search-results.html" target="_self" name="search" id="search" onsubmit="try{return velocityFormSubmit(this, event);}catch(e){}">
+                <div role="search">
+                  <label class="usa-sr-only" for="extended-search-field-small">Search small</label>
+                  <input class="usa-input" id="extended-search-field-small" type="search" name="query">
+                  <button class="usa-button bg-accent-warm" type="submit"><span class="usa-sr-only">Search</span></button>
+                </div>
+              </form>
+          
+                  </div>
+      </div>
+    </nav>
+
+<div class="container-fluid bg-danger">
+  <div class="container">
+    <div class="row alert alert-dismissible fade show covid" role="alert">
+
+      <div class="col-3 col-sm-3 col-xs-3">
+        <a href="//combatcovid.hhs.gov">
+          <img class="img-fluid pt-xl-3 pt-lg-3 pt-md-4 pt-4 float-right"
+            src="/assets/images/ASPA_Badge_CC10_Final_smaller.jpg" alt="Combat COVID"> </a>
+      </div>
+      <div class="col-sm-8 col-12 mb-0">
+        <h3 class="text-white mt-3 mb-0">COVID-19 Information</h3>
+        <p class="text-white mb-2"> <a
+            href='https://www.cdc.gov/coronavirus/2019-ncov/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2Findex.html'
+            class='text-white' aria-label='Latest information from CDC'>Get the latest public health information from
+            CDC</a><br /><a href='https://covid19.nih.gov' class='text-white'
+            aria-label='Latest information from NIH'>Get the latest research information from NIH</a> | <a
+            href='https://salud.nih.gov/covid-19/' class='text-white'
+            aria-label='Latest information from NIH - Español'>Español</a> <br /><a href='https://combatcovid.hhs.gov'
+            class='text-white' aria-label='Learn more about COVID-19 and you from HHS'>Learn more about COVID-19 and you
+            from HHS</a></p>
+        <button type="button" class="close mt-4 coopbutton" data-dismiss="alert" aria-label="Close"
+          onclick="COVIDclose();">
+
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/assets/javascript/COVIDclose.js"></script>
+
+
+  </header>
+      
+
+
+  <div class="front_page">
+    <div class="usa-layout padding-y-4">
+      <div class="grid-row grid-gap">
+  
+        <div class="LHC-sidenav tablet:grid-col-3">
+        
+          <h6 class="usa-heading-alt">DOWNLOADS</h6>
+          <nav aria-label="Secondary navigation">
+          
+            <ul class="usa-sidenav">
+ <li class="usa-sidenav__item">
+<a href="/LHC-downloads/downloads.html" target="_self" class="usa-current">Full Download list</a>
+<ul class="usa-sidenav__sublist"> 
+  
+ 
+ 
+<li class="usa-sidenav__item">
+<a href="/LHC-downloads/api.html" target="_self">API</a>
+</li> 
+   
+ 
+ 
+<li class="usa-sidenav__item">
+<a href="/LHC-downloads/dataset.html" target="_self">Dataset</a>
+</li> 
+   
+ 
+ 
+<li class="usa-sidenav__item">
+<a href="/LHC-downloads/mobile-app.html" target="_self">Mobile App</a>
+</li> 
+   
+ 
+ 
+<li class="usa-sidenav__item">
+<a href="/LHC-downloads/software.html" target="_self">Software</a>
+</li> 
+   
+ 
+ 
+<li class="usa-sidenav__item">
+<a href="/LHC-downloads/tutorial.html" target="_self">Tutorial</a>
+</li> 
+   
+ 
+ 
+<li class="usa-sidenav__item">
+<a href="/LHC-downloads/web-interface.html" target="_self">Web Interface</a>
+</li> 
+ 
+</ul> 
+  
+            </li></ul>
+          </nav>
+        </div>
+          <div class="desktop:grid-col-9">
+<p>DOWNLOADS</p>
+  
+   
+  
+            <div class="grid-container pt-2 px-0">
+              <div class="grid-row pt-2">
+<div class="desktop:grid-col-12">
+<div id="page-content" class="page-content desktop:grid-col-12">&nbsp;<div class="staff-expertise">
+
+<div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a240">Top LOINC Codes – Orders and Observations.</button></h2><div id="project-a240" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: McDonald CJ.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p>Downloads for LOINC Observations and Lab Orders Value Sets:</p>
+<ul>
+<li><a title="LOINC Top 2000++ Lab Observations v1.6" href="https://lhncbc.nlm.nih.gov/assets/legacy/files/LOINC_1.6_Top2000CommonLabResultsUS.pdf">LOINC Top 2000++ Lab Observations v1.6 (PDF)</a></li>
+<li><a title="LOINC Universal Lab Orders Value Set v2.0" href="https://lhncbc.nlm.nih.gov/assets/legacy/files/LOINCUniversalLabOrdersValueSet.csv">LOINC Universal Lab Orders Value Set v2.0 (CSV)</a></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a282">Malaria Datasets.</button></h2><div id="project-a282" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Jaeger S.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">This page hosts a repository of segmented cells from the thin blood smear slide images from the Malaria Screener research activity. To reduce the burden for microscopists in resource-constrained regions and improve diagnostic accuracy, researchers at the Lister Hill National Center for Biomedical Communications (LHNCBC), part of National Library of Medicine (NLM), have developed a mobile application that runs on a standard Android smartphone attached to a conventional light microscope. Giemsa-stained thin blood smear slides from 150 P. falciparum-infected and 50 healthy patients were collected and photographed at Chittagong Medical College Hospital, Bangladesh. The smartphone&rsquo;s built-in camera acquired images of slides for each microscopic field of view. The images were manually annotated by an expert slide reader at the Mahidol-Oxford Tropical Medicine Research Unit in Bangkok, Thailand. The de-identified images and annotations are archived at NLM (IRB#12972). We applied a level-set based algorithm to detect and segment the red blood cells. The dataset contains a total of 27,558 cell images with equal instances of parasitized and uninfected cells. An instance of how the patient-ID is encoded into the cell name is shown herewith: &ldquo;P1&rdquo; denotes the patient-ID for the cell labeled &ldquo;C33P1thinF_IMG_20150619_114756a_cell_179.png&rdquo;. We have also included the CSV files containing the Patient-ID to cell mappings for the parasitized and uninfected classes. The CSV file for the parasitized class contains 151 patient-ID entries. The slide images for the parasitized patient-ID &ldquo;C47P8thinOriginal&rdquo; are read from two different microscope models (Olympus and Motif). The CSV file for the uninfected class contains 201 entries since the normal cells from the infected patients&rsquo; slides also make it to the normal cell category (151+50 = 201).</p>
+<p class="project-text">The data appear along with the publication: Rajaraman S, Antani SK, Poostchi M, Silamut K, Hossain MA, Maude, RJ, Jaeger S, Thoma GR. (2018) Pre-trained convolutional neural networks as feature extractors toward improved Malaria parasite detection in thin blood smear images. PeerJ6:e4568 <a title="External Link: Please review our privacy policy" href="https://doi.org/10.7717/peerj.4568">https://doi.org/10.7717/peerj.4568 <i class="fas fa-external-link-alt"></i></a></p>
+<p class="project-text">An improvement in performance has been recently reported using deep neural ensembles toward malaria parasite detection in thin-blood smear images and is published in the PeerJ journal as cited herewith: Rajaraman S, Jaeger S, Antani SK. (2019) Performance evaluation of deep neural ensembles toward malaria parasite detection in thin-blood smear images. PeerJ 7:e6977 <a title="External Link: Please review our privacy policy" href="https://doi.org/10.7717/peerj.6977">https://doi.org/10.7717/peerj.6977 <i class="fas fa-external-link-alt"></i></a></p>
+<p class="project-text">The datasets are available at <a href="https://data.lhncbc.nlm.nih.gov/public/Malaria/cell_images.zip">cell_images.zip</a>, the codes at <a href="https://data.lhncbc.nlm.nih.gov/public/Malaria/malaria_cell_classification_code.zip">malaria_cell_classification_code.zip</a> and the Patient-ID to cell mappings for the parasitized and uninfected classes at <a href="https://data.lhncbc.nlm.nih.gov/public/Malaria/patientid_cellmapping_parasitized.csv">patientid_cellmapping_parasitized.csv</a> and <a href="https://data.lhncbc.nlm.nih.gov/public/Malaria/patientid_cellmapping_uninfected.csv">patientid_cellmapping_uninfected.csv</a> respectively.</p><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a295">HL7 Version 2.5.1 Implementation Guide: Lab Results Interface (LRI), Release 1, STU Release 4.</button></h2><div id="project-a295" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: McDonald CJ, Maglott D, Abhyankar S, Goodwin R, Kanduru A, Lu S, Lynch P, Vreeman D, Wang Y, Wood G.<br> US Realm, Chapter 5, Clinical Genomics Results Reporting. Published for May 2017 Ballot.</p><hr><strong>Abstract:</strong><p class="project-text"></p>No abstract available.<p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a299">Chest X-ray Screening System: Segmentation Module – v3.</button></h2><div id="project-a299" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Candemir S.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text"><span style="text-decoration: underline;"><strong>Atlas-based lung boundary detection module (MATLAB Code) </strong></span></p>
+<p class="project-text">We present to you software developed as part of the following article:</p>
+<p class="project-text">Candemir S, Jaeger S, Palaniappan K, Musco JP, Singh RK, Xue Z, Karargyris A, Antani S, Thoma G, McDonald CJ. Lung segmentation in chest radiographs using anatomical atlases with nonrigid registration. IEEE Trans Med Imaging. 2014 Feb; 33(2):577-90. <a title="External Link: Please review our privacy policy" href="https://doi.org/10.1109/TMI.2013.2290491">doi: 10.1109/TMI.2013.2290491</a>. PMID: 24239990</p>
+<p class="project-text">We request that you cite the paper if this code is used for publications or product.</p>
+<p class="project-text"><span style="text-decoration: underline;"><strong>The software contains the following assets: </strong></span></p>
+<p class="project-text"><strong>- LungSegment_module.m:</strong> performs the lung segmentation on CXRs.</p>
+<p class="project-text"><strong>- Patient_Xrays:</strong> folder contain patient X-ray to be segmented. Please locate your test X-rays in this folder. The X-ray image can be in DICOM, TIFF, PNG, BMP, or JPEG file formats.</p>
+<p class="project-text"><strong>- Model_Xrays:</strong> folder contain example X-rays, their corresponding lung masks, vertical, and horizontal profiles. These X-rays and lung masks are used during registration process.</p>
+<p class="project-text"><strong>- Model_h.mat and Model_v.mat:</strong> precomputed profiles for model x-rays.</p>
+<p class="project-text"><strong>- TEST.m:</strong> to test the system, please run this function.&nbsp;</p>
+<p class="project-text"><strong> - subfunctions:</strong> CEB_polygionCurveEvolution.m, cebShape2Spline.m, f_removeBlackBorderds.m, f_RemoveSmallSegments.m, FindSimilarCXR.m, fitSpline.m, read_Xray.m, read_Xray.m, read_X_Mask.m, RegisterModel.m, SmoothBoundary.m (please refer code comments for these functions. )</p>
+<p class="project-text">The system is developed using MATLAB version 8.4 on 64-bit Intel architecture running Windows 7 operating system.</p>
+<p class="project-text"><strong>- Employed functions:</strong> mexDenseSIFT(m, mex), mesDiscreteFlow(m,mex), SIFTflowc2f.m functions are employed from the &ldquo;SIFT Flow: Dense Correspondence across Scenes and Its applications&rdquo;. Please use the <a title="External Link: Please review our privacy policy" href="http://people.csail.mit.edu/celiu/SIFTflow/">http://people.csail.mit.edu/celiu/SIFTflow/</a> website to download the latest version of these functions. Do not forget citing the SIFTFlow paper.</p>
+<p class="project-text"><span style="text-decoration: underline;"><strong>How to run:</strong></span></p>
+<ol>
+<li>Download and unpack the zip file containing the code here.</li>
+<li>Locate your CXRs in the Patient X-ray folder.</li>
+<li>Run the TEST.m function. The binary lung masks will be computed for each patient X-ray. The masks will be the same size as patient X-ray.</li>
+<li>Adjust parameters to obtain better results for your CXRs.</li>
+</ol>
+<p class="project-text"><span style="text-decoration: underline;"><strong>Contact:</strong></span> <a href="/LHC-personnel/staff/StefanJaeger.html">Stefan Jaeger </a></p>
+<p class="project-text"><a href="https://data.lhncbc.nlm.nih.gov/public/Lung-Segmentation-Code/Segmentation_Module_Version_2017_11_04.zip">Download</a></p><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a314">Dataset: Consumer Health Spelling Error Dataset.</button></h2><div id="project-a314" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Kilicoglu H.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">472 consumer health questions submitted to NLM, de-identified and annotated for spelling errors (non-word, real-word). For more information on this dataset, see <a href="https://lhncbc.nlm.nih.gov/LHC-publications/pubs/AnEnsembleMethodforSpellingCorrectioninConsumerHealthQuestions.html">Kilicoglu et al. (AMIA 2015)</a>.</p>
+<p class="project-text"><strong>URL: </strong><a id="anch_36" href="https://data.lhncbc.nlm.nih.gov/public/RIDEM/infobot_docs/CHQA_SpellCorrection_Dataset.zip" target="_blank" rel="noopener">https://data.lhncbc.nlm.nih.gov/public/RIDEM/infobot_docs/CHQA_SpellCorrection_Dataset.zip</a></p><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a395">Dataset: CHQA Named Entity Dataset.</button></h2><div id="project-a395" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Demner-Fushman D, Kilicoglu H.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">1,548 Consumer Health Questions submitted to NLM, de-identified and annotated with named entities from 15 broad categories, including medical problems, drug/supplements, anatomy, and procedures. For more information on this dataset, see <a href="https://lhncbc.nlm.nih.gov/LHC-publications/pubs/Annotatingnamedentitiesinconsumerhealthquestions.html">Kilicoglu et al.(LREC 2016)</a>.</p>
+<p class="project-text"><a id="anch_38" href="https://data.lhncbc.nlm.nih.gov/public/RIDEM/infobot_docs/CHQA-NER-Corpus_1.0.zip">CHQA Named Entity Dataset</a></p><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a396">Software: Bio-SCoRes.</button></h2><div id="project-a396" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Kilicoglu H.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">Bio-SCoRes is a general, modular framework for coreference resolution in biomedical text. It is underpinned by a smorgasbord architecture, and incorporates a variety of coreference types (anaphora, appositive, etc.), their textual expressions (definite noun phrases, possessive pronouns, etc.) and allows fine-grained specification of coreference resolution strategies. The tool includes the coreference resolution framework components and the linguistic components they rely on, as well as the coreference resolution pipelines that were used to evaluate the tool.</p>
+<p class="project-text">Download at <a title="External Link: Please review our privacy policy" id="anch_39" href="https://github.com/kilicogluh/Bio-SCoRes">https://github.com/kilicogluh/Bio-SCoRes</a></p><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a398">Dataset: Structured Drug Product Label (SPL) Coreference Dataset.</button></h2><div id="project-a398" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Kilicoglu H.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">181 structured drug labels (SPLs) extracted from DailyMed and annotated with three entity categories (drugs, drug classes, and substances) as well as several types of coreference relations (anaphora, cataphora, appositive, and predicate nominative). For more information on this dataset, see <a href="https://lhncbc.nlm.nih.gov/LHC-publications/pubs/BioSCoResASmorgasbordArchitectureforCoreferenceResolutioninBiomedicalText.html">Kilicoglu and Demner-Fushman (PLOS ONE, 2016)</a>.</p>
+<p class="project-text">Available for download at <a title="External Link: Please review our privacy policy" id="anch_41" href="https://github.com/kilicogluh/Bio-SCoRes/tree/master/DATA/SPL">https://github.com/kilicogluh/Bio-SCoRes/tree/master/DATA/SPL</a></p><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a399">Dataset: Sortal Anaphora Dataset.</button></h2><div id="project-a399" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Kilicoglu H.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">In order to develop and evaluate a sortal anaphora resolution module, we annotated a corpus of 320 MEDLINE citations with pairwise sortal anaphora relations. Since we aimed at a general approach that takes into account all semantic types and consequently supports SemRep, we collected MEDLINE abstracts on a wide range of topics, including molecular biology and clinical medicine.</p>
+<p class="project-text">For further details, <a id="anch_42" href="http://skr3.nlm.nih.gov/SortalAnaphora/">http://skr3.nlm.nih.gov/SortalAnaphora/</a>.</p><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a429">Dataset: Question Decomposition Data.</button></h2><div id="project-a429" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Demner-Fushman D, Roberts K.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">Consumer Health Questions submitted to the Genetic and Rare Disease Information Center (GARD) manually labeled with question decomposition annotations.This includes sentence-level annotations (Question, Background, and Ignore), question-level annotations (Coordination, Exemplification), and a document-level annotation (Focus). For more information on this data, see <a href="https://lhncbc.nlm.nih.gov/LHC-publications/pubs/AnnotatingQuestionDecompositiononComplexMedicalQuestions.html">Roberts et al. (LREC 2014; BioNLP 2014)</a>.</p>
+<p class="project-text"><a id="anch_43" href="https://data.lhncbc.nlm.nih.gov/public/RIDEM/infobot_docs/GARD_qdecomp.v1.zip">Dataset: Question Decomposition Data</a></p><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a430">Dataset: Question Type Data.</button></h2><div id="project-a430" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Demner-Fushman D, Roberts K.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">Consumer Health Questions submitted to the Genetic and Rare Disease Information Center (GARD) manually labeled with question types. Uses the question decomposition annotations (above) to break multi-sentence questions into single-sentence sub-questions. Each sub-question has one question type designed to capture a high-level information need of a consumer health question (e.g., Diagnosis, Management, Susceptibility). For more information on this data, see Roberts et al. (BioTxtM 2014; AMIA 2014).</p>
+<p><a id="anch_44" href="https://data.lhncbc.nlm.nih.gov/public/RIDEM/infobot_docs/GARD_qdecomp.master.03.qtd.xml">Question Type Data</a></p><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a534">Software: NLM-Scrubber.</button></h2><div id="project-a534" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Kayaalp M, Dodd Z, Browne AC, Sagan, P, McDonald CJ.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">Narrative clinical reports contain a rich set of clinical knowledge that could be invaluable for clinical research. However, they usually contain personal identifiers. The presence of personal identifiers in clinical reports renders the contents of those reports as protected health information, which is associated with use restrictions and risks to privacy. The Privacy Rule of Health Insurance Portability and Accountability Act (HIPAA) requires that clinical documents be stripped of personally identifying information before they can be released to researchers and others. Our solution, <a id="anch_45" href="https://scrubber.nlm.nih.gov/">NLM-Scrubber</a>, is a HIPAA compliant, clinical text de-identification tool designed and developed at the National Library of Medicine. It is freely available.</p><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a543">Datasets: Tuberculosis Chest X-ray Datasets.</button></h2><div id="project-a543" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Rajaraman S, Jaeger S, Antani SK.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">The following de-identified chest X-ray (CXR) image data sets are available to the research community along with findings and consensus radiologist annotations. Both sets contain normal as well as abnormal CXRs with the latter containing TB-consistent manifestations. The use and sharing of these deidentified images have been reviewed and exempted by the Ethics boards.</p>
+
+<p class="project-text">Please cite the following publications when using these data.</p>
+
+<p class="project-text">For datasets&#58;</p>
+<p class="project-text">1. Jaeger S, Candemir S, Antani S, Wáng YX, Lu PX, Thoma G. Two public chest X-ray datasets for computer-aided screening of pulmonary diseases. Quant Imaging Med Surg. 2014 Dec;4(6):475-7. DOI: 10.3978/j.issn.2223-4292.2014.11.20. PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/25525580/" title="Two public chest X-ray datasets for computer-aided screening of pulmonary diseases PMID">25525580</a>; PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4256233/" title="Two public chest X-ray datasets for computer-aided screening of pulmonary diseases PMCID">PMC4256233</a>.</p>
+
+<p class="project-text">For annotations&#58;</p>
+<p class="project-text">2. Rajaraman S, Folio LR, Dimperio J, Alderson PO, Antani SK. Improved Semantic Segmentation of Tuberculosis-Consistent Findings in Chest X-rays Using Augmented Training of Modality-Specific U-Net Models with Weak Localizations. Diagnostics (Basel). 2021 Mar 30;11(4):616. DOI: 10.3390/diagnostics11040616. PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/33808240/" title="Improved Semantic Segmentation of Tuberculosis-Consistent Findings in Chest X-rays Using Augmented Training of Modality-Specific U-Net Models with Weak Localizations PMID">33808240</a>; PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8065621/" title="Improved Semantic Segmentation of Tuberculosis-Consistent Findings in Chest X-rays Using Augmented Training of Modality-Specific U-Net Models with Weak Localizations PMCID">PMC8065621</a>.</p>
+
+<p class="project-text"><strong>Montgomery County CXR Set</strong>: The images in this data set have been acquired from the TB Control Program of the Department of Health and Human Services of Montgomery County, MD, USA. This set contains 138 posterior-anterior CXRs of which 80 are normal and 58 are abnormal with manifestations that are consistent with TB. All images are de-identified and available along with left and right PA-view lung masks in PNG format. The data set also includes consensus annotations from two radiologists for 1024 &times; 1024 resized images and radiology readings. <span class="s1"><a id="anch_23" title="Download Link for Montgomery County CXR Set" href="https://data.lhncbc.nlm.nih.gov/public/Tuberculosis-Chest-X-ray-Datasets/Montgomery-County-CXR-Set/MontgomerySet/index.html">Download Montgomery County CXR Set</a></span></p>
+<p class="project-text"><strong>Shenzhen Hospital CXR Set</strong>: The CXR images in this data set have been collected and provided by Shenzhen No.3 Hospital in Shenzhen, Guangdong providence, China. The images are in PNG format. There are 326 normal and 336 abnormal CXRs, respectively, showing various TB-consistent manifestations. The data set also includes consensus annotations for a subset (N = 68) from two radiologists for 1024 &times; 1024 resized images and radiology readings. <span class="s1"> <a id="anch_24" title="Download Link for Shenzhen Hospital CXR Set" href="https://data.lhncbc.nlm.nih.gov/public/Tuberculosis-Chest-X-ray-Datasets/Shenzhen-Hospital-CXR-Set/index.html">Download Shenzhen Hospital CXR Set</a></span></p><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a704">Web Interface: The Bottom Line.</button></h2><div id="project-a704" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Fontelo P.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">The Bottom Line (TBL) presents summarized journal abstracts in MEDLINE/PubMedfor quick reading or text messaging. It presents Conclusion sections from structured abstracts if available, otherwise TBL results are derived by using a word counting algorithm plus the last two sentences of the abstract.</p>
+<p class="project-text">TBL is available through PubMed for Handhelds: Mobile App: <a href="http://pubmedhh.nlm.nih.gov/">http://pubmedhh.nlm.nih.gov</a></p><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a729">Dataset: SNOMED CT to ICD-10 Cross Map.</button></h2><div id="project-a729" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Fung K.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text"><strong>SNOMED CT to ICD-10 Cross Maps (created and maintained by IHTSDO) -</strong> support epidemiological, statistical, and administrative reporting.</p>
+<p class="project-text">The map is updated and included with every International release of SNOMED CT which can be downloaded here. <a id="anch_53" href="http://www.nlm.nih.gov/research/umls/licensedcontent/snomedctfiles.html">http://www.nlm.nih.gov/research/umls/licensedcontent/snomedctfiles.html</a></p><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a776">API: RxNorm Prescribable.</button></h2><div id="project-a776" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Bodenreider O.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">The <a href="http://www.nlm.nih.gov/research/umls/rxnorm/docs/prescribe.html">RxNorm Current Prescribable Content</a> is a subset of currently prescribable drugs found in RxNorm. We intend it to be an approximation of the prescription drugs currently marketed in the US. The subset also includes some frequently-prescribed over-the-counter drugs.</p>
+<p class="project-text">The subset includes only the active RxNorm normalized names, codes (RxCUIs), attributes, and relationships, as well as the FDA structured product label drugs and ingredients. It does not include data from any of the other 10 RxNorm data providers, such as First DataBank, Micromedex, or the Veterans Administration. We also removed suppressed and obsolete data.</p>
+<p class="project-text">The National Library of Medicine provides this subset without any licensing restrictions. You do not need to log into the UMLS Terminology Services to access the subset.</p>
+<p class="project-text">The <a href="https://lhncbc.nlm.nih.gov/RxNav/APIs/PrescribableAPIs.html">RxNorm Prescribable API</a> is a web service for accessing the RxNorm Current Prescribable Content from your program.</p>
+<ul>
+<li>API&#58; <a id="anch_58" href="https://lhncbc.nlm.nih.gov/RxNav/APIs/PrescribableAPIs.html">https://lhncbc.nlm.nih.gov/RxNav/APIs/PrescribableAPIs.html</a></li>
+<li>Learn More About the RxNorm Prescribable Content&#58; <a id="anch_59" href="http://www.nlm.nih.gov/research/umls/rxnorm/docs/prescribe.html">http://www.nlm.nih.gov/research/umls/rxnorm/docs/prescribe.html</a></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a802">Dataset: SNOMED CT to ICD-10-CM Map.</button></h2><div id="project-a802" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Fung K.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text"><strong>Mapping SNOMED CT codes to and from ICD codes</strong></p>
+<p class="project-text">SNOMED CT is clinically-based, and oriented for direct use by healthcare providers, to document whatever is needed for patient care. ICD codes are oriented more for coding professionals to use after patient care has already been provided, for statistical data collection and billing. ICD codes lump less common diseases together in "catch-all" categories, for example, J15.8 Pneumonia due to other specified bacteria, which could result in loss of information. SNOMED Ct has more "granular" (specific) clinical coverage than ICD:SNOMED CT (clinical finding) has 100,000 codes, ICD-10-CM has 68,000 codes, and ICD-9-CM has 14,000 codes.</p>
+<p class="project-text">Due to the differences in granularity, emphasis and organizing principles between SNOMED CT and ICD-10-CM, it is not always possible to have a one-to-one map between a SNOMED CT concept and an ICD-10-CM code. To address this challenge, the SNOMED CT to ICD-10-CM Map follows an approach that is consistent with the approach used by the IHTSDO and WHO.&nbsp; When there is a need to choose between alternative ICD-10-CM codes, each possible target code is represented as a &ldquo;map rule&rdquo; (the essence of &ldquo;rule-based mapping&rdquo;). Related map rules are grouped into a &ldquo;map group&rdquo;. Map rules within a map group are evaluated in a prescribed order at run-time, based on contextual information and co-morbidities. Each map group will resolve to at most one ICD-10-CM code. In the event that a SNOMED CT concept requires more than one ICD-10-CM code to fully represent its meaning, the map will consist of multiple map groups.</p>
+<p class="project-text">We have created the<strong> SNOMED CT to ICD-10-CM Map</strong> to support semi-automated generation of ICD-10-CM codes from clinical data encoded in SNOMED CT for reimbursement and statistical purposes.</p>
+<ul>
+<li>Download: <a id="anch_60" href="http://www.nlm.nih.gov/research/umls/mapping_projects/snomedct_to_icd10cm.html">http://www.nlm.nih.gov/research/umls/mapping_projects/snomedct_to_icd10cm.html</a><br />
+<ul style="margin-left: 40px;">
+<li>Latest release in September 2014 provides ICD-10-CM maps for 54,262 SNOMED CT concepts</li>
+<li>Third release (35,000 SNOMED CT concepts mapped to ICD-10-CM) is anticipated for June 2013.</li>
+<li>Second release was in July 2012 (15,000 SNOMED CT concepts mapped to ICD-10-CM).</li>
+<li>First release was in February 2012 (7000 SNOMED CT concepts mapped to ICD-10-CM).</li>
+</ul>
+</li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a804">Dataset: LOINC Top 2000+ Lab Observations and Mapper's Guide.</button></h2><div id="project-a804" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: McDonald CJ.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">Mapping your local laboratory test codes to LOINC can seem like a daunting task at first. Don't worry. To help you get started, we've created an empirically-based list of the <strong>most common LOINC result codes</strong>.</p>
+<p class="project-text">Knowing that <a id="anch_61" class="internal-link" title="A Rationale for Parsimonious Laboratory Term Mapping by Frequency" href="http://loinc.org/articles/Vreeman2007">relatively few codes account for much of the typical lab result volume</a>, we think that this Top 2000+ list will be an excellent starter set. It contains just over 2,000 LOINC codes that represent about <strong>98% of the test volume</strong> carried by three large organizations that mapped all of their lab tests to LOINC codes.</p>
+<p class="project-text"><span class="welcometxtblurblarger">The LOINC Top 2000+ Lab Observations list is available in two varieties:</span></p>
+<ol>
+<li><strong>US Version.</strong> For those who favor reporting in mass units (e.g. mg/dL)</li>
+<li><strong>SI Version.</strong> For those who favor reporting in molar units (e.g. mmol/L)</li>
+</ol>
+<p class="project-text"><span class="welcometxtblurblarger">To go with the Top 2000+ list, we've also written a <strong>Mapper's Guide </strong>that has a wealth of advice and guidance about which codes to choose for a given purpose. You can download it all here.</span></p>
+<ul>
+<li>Dataset: <a title="External Link: Please review our privacy policy" id="anch_62" href="http://loinc.org/usage/obs">http://loinc.org/usage/obs</a></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a810">Web Interface: RxMix.</button></h2><div id="project-a810" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Bodenreider O.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text"><strong>RxMix has been updated!</strong> RxMix is a web application that allows users to combine functions from the RxNorm, NDF-RT and RxTerms APIs to create custom applications that can be run interactively or in a batch mode.</p>
+<ul>
+<li><strong>Function composition.</strong> The RxMix interface allows the user to build a workflow of API functions to execute. This saves the user from having to write complex programs to handle multiple function calls. Examples of function composition are contained in the examples below.</li>
+<li><strong>Batch processing.</strong> Through the user interface, RxMix allows the user to process large amounts of data through the user defined workflow. The user can provide a file containing a list of inputs, such as drug names or drug identifiers, for input to the workflow. RxMix will execute the workflow and inform the user via email when the job has completed, providing information on how to retrieve the results.</li>
+<li><strong>Output in XML, JSON or Text.</strong> RxMix offers the user the choice of formatting the output in XML, JSON, or text.</li>
+<li><strong>Interactive mode.</strong> RxMix allows users to interactively test and display the results of the workflow on a single input value.</li>
+</ul>
+<p class="project-text">Users of the RxMix interface should be familiar with the <a id="anch_63" title="RxNorm" href="http://rxnav.nlm.nih.gov/RxNormAPIs.html#label:apiRef">RxNorm</a>, <a id="anch_64" title="NDF-RT" href="http://rxnav.nlm.nih.gov/RxClassAPIs.html">NDF-RT</a> and/or the <a id="anch_65" title="RxTerms API functions" href="http://rxnav.nlm.nih.gov/RxTermsAPIs.html#label:apiRef">RxTerms API functions</a>.</p>
+<p class="project-text">**Note: <strong>RxMix will not work properly with Internet Explorer</strong>. Please use FireFox, Chrome or Safari to run RxMix.</p>
+<ul>
+<li>Web interface: <a id="anch_66" href="http://mor1.nlm.nih.gov/RxMix/">http://mor1.nlm.nih.gov/RxMix/</a></li>
+<li>Learn More: <a id="anch_67" href="http://rxnav.nlm.nih.gov/RxMixTutorial.html">http://rxnav.nlm.nih.gov/RxMixTutorial.html</a></li>
+<li>RxMix Tutorial Batch Examle: <a id="anch_68" href="http://rxnav.nlm.nih.gov/RxMixTutorial2.html">http://rxnav.nlm.nih.gov/RxMixTutorial2.html</a></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a815">Dataset: ICD-9-CM to SNOMED CT Map.</button></h2><div id="project-a815" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Fung KW.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">Many existing electronic health record (EHR) systems contain clinical information encoded in ICD-9-CM. To facilitate migration to SNOMED CT as the primary clinical terminology for patient problems (diseases and conditions), it is desirable that the legacy ICD-9-CM data be translated to SNOMED CT. This will make it possible to compare newly collected data with historic data, and will also allow the EHR to make use of SNOMED CT to provide clinical decision support and other functions. The goal of the ICD-9-CM to SNOMED CT Map (herein referred to as &ldquo;the Map&rdquo;) is to facilitate the translation of legacy data and the transition to prospective use of SNOMED CT for patient problem lists. Note that this Map is not the same as, and serves different purposes from, the <a id="anch_69" title="archive of SNOMED CT to ICD-9-CM Map" href="https://wayback.archive-it.org/org-350/20181102175616/https://www.nlm.nih.gov/research/umls/mapping_projects/snomedct_to_icd9cm_reimburse.html">SNOMED CT to ICD-9-CM Map</a>.</p>
+<p class="project-text">The most useful mappings are the one-to-one maps, in which a single SNOMED CT concept can be used to represent the full meaning of an ICD-9-CM code. This allows the automatic translation of ICD-9-CM codes into SNOMED CT codes without loss of meaning. The Map tries to identify as many one-to-one maps as possible, however, due to the differences between the two coding systems, one-to-one maps cannot be found for some ICD-9-CM codes. This difference is usually due to one of two reasons. Firstly, in ICD-9-CM, some codes are &ldquo;catch-all&rdquo; codes that encompass heterogeneous diseases or conditions (e.g. pneumonia due to other specified bacteria). These codes, commonly known as &ldquo;NEC codes&rdquo; (not elsewhere classified codes), will not have one-to-one maps because of their nature. Secondly, since SNOMED CT is more granular than ICD-9-CM in most disease areas, some ICD-9-CM diseases or conditions are further refined as more specific concepts in SNOMED CT. For such cases, it is not possible to map to a more specific SNOMED CT concept without the input of additional information.</p>
+<p class="project-text">The Map is published in two separate files, one containing the one-to-one maps, and the other the one-to-many maps. Also included in the files are the usage frequency of the ICD-9-CM codes, and the usage frequency of the SNOMED CT concepts from the <a id="anch_70" href="http://www.nlm.nih.gov/research/umls/Snomed/core_subset.html">CORE Problem List Subset</a> data. The latter information can help users to identify the more commonly used SNOMED CT targets in the one-to-many maps.</p>
+<p class="project-text"><strong>Mapping Methodology</strong><br />Two lists were obtained from the Centers for Medicare &amp; Medicaid Services (CMS), covering commonly used ICD-9-CM codes in short-stay and outpatient hospitals respectively, for the year 2009. SNOMED CT maps for the ICD-9-CM codes in the lists were derived primarily from two existing knowledge sources: the synonymy between ICD-9-CM and SNOMED CT terms in the Unified Medical Language System (UMLS), and the SNOMED CT to ICD-9-CM Cross Maps published in the International release of SNOMED CT. The choice of target SNOMED CT codes was limited to concepts in three hierarchies: Clinical finding, Situation with explicit context, and Events. One-to-one maps identified by UMLS synonymy were not manually validated. One-to-many maps that were algorithmically identified which involved less than 5 SNOMED CT targets were manually reviewed, with the intention to reduce them to one-to-one maps if possible. ICD-9-CM codes with no maps, or one-to-many maps involving a large number of targets were not manually reviewed.</p>
+<ul>
+<li>Dataset: <a id="anch_71" href="http://www.nlm.nih.gov/research/umls/mapping_projects/icd9cm_to_snomedct.html">http://www.nlm.nih.gov/research/umls/mapping_projects/icd9cm_to_snomedct.html</a></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a822">Web Interface: I-Magic SNOMED-CT to ICD-10-CM code mapping tool.</button></h2><div id="project-a822" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Fung KW.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">The I-MAGIC (Interactive Map-Assisted Generation of ICD Codes) Algorithm utilizes the SNOMED CT to ICD-10-CM Map in a real-time, interactive manner to generate ICD-10-CM codes. This demo simulates a problem list interface in which the user enters problems with SNOMED CT terms, which are then used to derive ICD-10-CM codes using the Map.</p>
+<p class="project-text">The Map can be used in the following scenarios:</p>
+<ol>
+<li><strong>Real-time use by the healthcare provider</strong> &ndash; In this scenario, the Map is embedded in the problem list application of the EHR used by the physician or other healthcare provider. At the end of a clinic encounter, the clinician updates the problem list, which is encoded in SNOMED CT. The Map-enabled problem list application outputs a list of ICD-10-CM codes based on algorithmic evaluation of map rules, which makes use of patient context (e.g. age, gender) and co-morbidities (other problems on the problem list) to identify the most appropriate candidate ICD-10-CM codes, in accordance with ICD-10-CM coding guidelines and conventions. If necessary, the clinician is prompted for additional information to decide between alternative codes, or to refine the output codes. The clinician confirms the suggested ICD-10-CM codes. (See the <a id="anch_72" href="http://imagic.nlm.nih.gov/imagic/code/map">I-MAGIC algorithm and demo page</a>)</li>
+<li><strong>Retrospective coding by coding professionals</strong> &ndash; In this scenario, the Map is used within an application to suggest candidate ICD-10-CM codes to coding professionals based on a stored SNOMED CT encoded problem list. The degree of automation can vary. Textual advice can be displayed in cases where automated rule processing is not available.</li>
+</ol>
+<ul>
+<li>Web Interface: <a id="anch_73" href="http://imagic.nlm.nih.gov/imagic/code/map">http://imagic.nlm.nih.gov/imagic/code/map</a></li>
+<li>I-MAGIC Implementation Guide: <a id="anch_74" href="http://www.nlm.nih.gov/research/umls/mapping_projects/IMAGICImplementationGuide_20120614.pdf">http://www.nlm.nih.gov/research/umls/mapping_projects/IMAGICImplementationGuide_20120614.pdf</a></li>
+<li>About the SNOMED CT to ICD-10-CM map: <a id="anch_75" href="http://www.nlm.nih.gov/research/umls/mapping_projects/snomedct_to_icd10cm.html">http://www.nlm.nih.gov/research/umls/mapping_projects/snomedct_to_icd10cm.html</a></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a860">Dataset: Newborn Screening Results Annotated Example HL7 Electronic Message Guidance (v 5.2).</button></h2><div id="project-a860" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Abhyankar S, Goodwin RM, Zuckerman A, McDonald CJ.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">To help promote efficient electronic exchange of standard newborn screening data, the Lister Hill National Center for Biomedical Communications, in cooperation with the Newborn Screening Community and HITSP Population Perspective Technical Committee, developed draft guidance about the use of LOINC and SNOMED CT codes to report newborn screening test results in standard Health Level 7 (HL7) version 2.x message format.</p>
+<ul>
+<li>Annotated Example HL7 Message: <a id="anch_76" href="https://lhncbc.nlm.nih.gov/newbornscreeningcodes/nb/sc/download/2014-09-02_NLM_HRSA_HL7_NBS_example_v6.pdf">https://lhncbc.nlm.nih.gov/newbornscreeningcodes/nb/sc/download/2014-09-02_NLM_HRSA_HL7_NBS_example_v6.pdf</a></li>
+<li>LOINC panel for Reporting Newborn Screening Results: <a id="anch_77" title="Newborn screening panel American Health Information Community (AHIC)" href="https://loinc.org/54089-8">https://loinc.org/54089-8</a></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a865">Dataset: Newborn screening LOINC panel.</button></h2><div id="project-a865" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Abhyankar S, Goodwin RM, Zuckerman AE, McDonald CJ.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">Includes the LOINC terms required to report all newborn screening results for all states &mdash; including variables for reporting an overall summary, for most of the card variables and, for reporting impressions, narrative guidance and measures of quantitative markers for each condition or condition category. Think of it as a master template from which each state can select the variables it needs to report NBS results in the same organizational structure. This same information in spreadsheet format can be imported into laboratory databases - http://newbornscreeningcodes.nlm.nih.gov/nb/sc/download/54089-8_Newborn_Screening_panel_AHIC-240.xls.</p>
+<ul>
+<li>Dataset: <a id="anch_78" title="Newborn screening panel American Health Information Community (AHIC)" href="https://loinc.org/54089-8">https://loinc.org/54089-8</a></li>
+<li>Learn More: <a id="anch_79" title="Newborn Screening Coding and Terminology Guide Example HL7 Message" href="https://lhncbc.nlm.nih.gov/newbornscreeningcodes/nb/sc/constructingNBSHL7messages.html">https://lhncbc.nlm.nih.gov/newbornscreeningcodes/nb/sc/constructingNBSHL7messages.html</a></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a874">Dataset: Newborn Screening LOINC Codes (AHIC panel).</button></h2><div id="project-a874" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Abhyankar S, Goodwin RM, Zuckerman AE, McDonald CJ.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">Includes the LOINC terms required to report all newborn screening results for all states &mdash; including variables for reporting an overall summary, for most of the card variables and, for reporting impressions, narrative guidance and measures of quantitative markers for each condition or condition category. Think of it as a master template from which each state can select the variables it needs to report NBS results in the same organizational structure.</p>
+<ul>
+<li>Dataset: <a id="anch_80" title="Newborn screening panel American Health Information Community (AHIC)" href="https://loinc.org/54089-8">https://loinc.org/54089-8</a></li>
+<li>Dataset in spreadsheet format (xls): <a id="anch_81" href="http://newbornscreeningcodes.nlm.nih.gov/nb/sc/download/54089-8_Newborn_Screening_panel_AHIC-240.xls">http://newbornscreeningcodes.nlm.nih.gov/nb/sc/download/54089-8_Newborn_Screening_panel_AHIC-240.xls</a></li>
+<li>More guidance for e-reporting newborn screening results: <a id="anch_82" href="http://newbornscreeningcodes.nlm.nih.gov/HL7">http://newbornscreeningcodes.nlm.nih.gov/HL7</a></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a876">Dataset: Common Units of Measure - Subset of the Unified Code for Units of Measure.</button></h2><div id="project-a876" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: McDonald CJ.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">To help you standardize your units of measure, we&rsquo;ve created this translation table that enumerates the UCUM syntax for many common unit patterns currently used in electronic reporting. We composed this early version in relatively short order and focused on the basics. It was based on content provided by Intermountain Healthcare, from a joint National Library of Medicine and Regenstrief Institute project analyzing raw units from more than 23 laboratory sources, and from the HL7 table of units. We excluded the units of measure for which we couldn&rsquo;t find clear definitions or patterns of usage, those we believed would only be used in pharmacy dispensing, and units used for purely clinical reporting (e.g. cigarette pack-years). We have included most of the pure metric units from our sources, whether or not they apply directly to lab testing because they will be generally useful (and are pretty straightforward in UCUM).</p>
+<ul>
+<li>Dataset: <a title="External Link: Please review our privacy policy" id="anch_86" href="http://loinc.org/usage/units">http://loinc.org/usage/units</a></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a900">Dataset: LOINC Top 300+ Lab Orders.</button></h2><div id="project-a900" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: McDonald C.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text"><strong>These 300</strong><em> <span class="smallfont">(or so)</span></em><strong> codes cover more than 95% of lab test orders in the U.S.</strong></p>
+<p class="project-text">The LOINC Top 300 Lab Orders is a <strong>collection of universal laboratory order codes</strong> that covers the most frequent lab orders. It was created for use by developers of provider order entry systems that would deliver them in HL7 messages to laboratories where they could be understood and fulfilled. This value set was developed through both empirical and consensus-driven approaches. Obviously, at only 300 codes it doesn't include everything you might want to order, but is probably a very good "starter set". This is the Laboratory Order Value Set referenced by the <em><span class="link-external"><a id="anch_88" class="external-link" href="http://www.hitsp.org/ConstructSet_Details.aspx?&amp;PrefixAlpha=4&amp;PrefixNumeric=80">HITSP C80 Clinical Document and Messaging Terminology Construct</a></span> </em>in (Table 2-96) and the current <em>HL7 Version 2.5.1 Implementation Guide: S&amp;I Framework Laboratory Orders from EHR, Release 1</em> being balloted in HL7 and developed in collaboration with the <span class="link-external"><a id="anch_89" class="external-link" href="http://wiki.siframework.org/Laboratory+Orders+Interface+Initiative">HHS S&amp;I Framework Laboratory Orders Interface Working Group</a></span>.</p>
+<ul>
+<li>Dataset: <a title="External Link: Please review our privacy policy" id="anch_90" href="https://loinc.org/usage/orders/">https://loinc.org/usage/orders/</a></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a910">Dataset: Nursing Problem List Subset of SNOMED CT.</button></h2><div id="project-a910" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Fung KW.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">The main purpose of the Nursing Problem List Subset of SNOMED CT is to facilitate the use of SNOMED CT as the primary coding terminology for nursing problems used in care planning, problem lists, or other summary level clinical documentation.</p>
+<ul>
+<li>Dataset: <a id="anch_91" href="http://www.nlm.nih.gov/research/umls/Snomed/nursing_problemlist_subset.html">http://www.nlm.nih.gov/research/umls/Snomed/nursing_problemlist_subset.html</a></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a974">API: RxTerms.</button></h2><div id="project-a974" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Fung KW.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">RxTerms is a drug interface terminology derived from RxNorm for prescription writing or medication history recording (e.g. in e-prescribing systems, PHRs). An API is available to provide developers with functions for retrieving RxTerms data from the most current RxTerms data set.</p>
+<ul>
+<li>API&#58; <a id="anch_98" href="https://lhncbc.nlm.nih.gov/RxNav/APIs/RxTermsAPIs.html">https://lhncbc.nlm.nih.gov/RxNav/APIs/RxTermsAPIs.html</a></li>
+<li>Learn More About RxTerms&#58; <a id="anch_98" href="https://lhncbc.nlm.nih.gov/MOR/RxTerms/">https://lhncbc.nlm.nih.gov/MOR/RxTerms/</a></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a989">Dataset: SNOMED CT Route of Administration Subset.</button></h2><div id="project-a989" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Fung KW.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">The Route of Administration subset of SNOMED CT is a listing of the current set of terms related to the location of administration for clinical therapeutics.</p>
+<ul>
+<li>Dataset: <a id="anch_100" title="archive of SNOMED CT Route of Administration Subset" href="https://wayback.archive-it.org/org-350/20181102172604/https://www.nlm.nih.gov/research/umls/Snomed/roa_subset.html">SNOMED CT Route of Administration Subset</a></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a1074">Software: SimpleITK.</button></h2><div id="project-a1074" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Lowekamp B, Chen D, Santoroski J, Yaniv Z, Yoo TS.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">SimpleITK is a layer built on top of ITK to facilitate ITK's use in rapid prototyping, education, and interpreted languages. Its main characteristics are:</p>
+<ul>
+<li>C++ library</li>
+<li>Object-oriented</li>
+<li>Simple easy-to-use procedural interface without templates</li>
+<li>Distributed under an open source Apache 2.0 License</li>
+<li>Available for the following programing languages: Python, R, Java, C#, C++, Lua, Ruby, and TCL</li>
+</ul>
+<p class="project-text">More information is at <a title="External Link: Please review our privacy policy" id="anch_109" href="http://www.simpleitk.org/">http://www.simpleitk.org/</a></p><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a1086">Dataset: CORE Problem List of SNOMED CT.</button></h2><div id="project-a1086" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Fung KW.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">The CORE (Clinical Observations Recording and Encoding) Problem List Subset identifies important clinical concepts in SNOMED CT that occur frequently in the problem list. It facilitates the use of SNOMED CT for clinical documentation at the summary level.</p>
+<ul>
+<li>Dataset: <a id="anch_110" href="http://www.nlm.nih.gov/research/umls/Snomed/core_subset.html">http://www.nlm.nih.gov/research/umls/Snomed/core_subset.html</a></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a1127">Web Interface: Open-I.</button></h2><div id="project-a1127" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Demner-Fushman D.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">The Open-i project aims to provide next generation information retrieval services for biomedical articles from the full text collections such as <a id="anch_111" href="http://www.ncbi.nlm.nih.gov/pmc/">PubMed Central</a>. It is unique in its ability to index both the text and images in the articles. The article retrieval is powered by Essie (the search engine that supports <a id="anch_112" href="http://clinicaltrials.gov/">ClinicalTrials.gov</a>).</p>
+<p class="project-text">Open-i lets users retrieve not only the MEDLINE citation information, but also the outcome statements in the article and the most relevant figure from it. Further, it is possible to use the figure as a query component to find other relevant images or other visually similar images. Future stages aim to provide image region-of-interest (ROI) based querying. The initial number of images is projected to be around 600,000 and will scale to millions. The extensive image analysis and indexing and deep text analysis and indexing require distributed computing. At the request of the Board of Scientific Counselors, we intend to make the image computation services available as a NLM service.</p>
+<p class="project-text">Vist our <a id="anch_113" href="http://openi.nlm.nih.gov/faq.php">Frequently Asked Questions</a> page for more information and help.</p>
+<p class="project-text">Web Interface: <a id="anch_114" href="https://openi.nlm.nih.gov/">https://openi.nlm.nih.gov/</a></p>
+<p class="project-text">Batch Query Service: http://openi.nlm.nih.gov/batchindex.php</p><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a1227">Dataset: LOINC Panels and Forms file.</button></h2><div id="project-a1227" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: McDonald C, Lynch P.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">This file is an export of a key subset of the Panels and Forms represented in LOINC. The entire package of this key subset is currently available at <a title="External Link: Please review our privacy policy" id="anch_126" href="http://loinc.org/downloads/accessory-files">http://loinc.org/downloads/accessory-files</a>, in addition to separate packages for Laboratory panels, Clinical panels, Consumer Health panels, HEDIS panels, the HL7 Clinical Genetics panels, Newborn Screening panels, PhenX panels, US Government panels (including the CMS survey instruments MDSv2, MDSv3, OASIS, and CARE), and Other Survey Instruments. The hierarchical structure is represented in the file by the PARENT_ID, ID and SEQUENCE fields. The root, or top level, records in the file are those records where the PARENT_ID = ID. The records are in a Microsoft Excel spreadsheet (compressed as a zip file) with separate worksheets (tabs) for the form structure, LOINC code details, and answer lists.</p>
+<ul>
+<li>Dataset: <a title="External Link: Please review our privacy policy" id="anch_127" href="http://loinc.org/downloads/accessory-files">http://loinc.org/downloads/accessory-files</a></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a1259">Web Interface: Pico (Patient, Intervention, Comparison, and Outcome) Linguist.</button></h2><div id="project-a1259" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Fontelo P.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">Pico (Patient, Intervention, Comparison, and Outcome) Linguist&nbsp;is a multi-language tool for searching NLM's MEDLINE/PubMed. PICO Linguist has the following features:</p>
+<ul>
+<li>It is intended for users whose native languages is not English.&nbsp;</li>
+<li>It uses PICO&rsquo;s interface, which has a fill-in-the-blank interface for specifying a condition or disease, a single intervention or treatment, multiple interventions or treatments that are to be compared (optional), and an outcome (also optional), plus a dropdown menu for selecting publication type from among clinical trial, meta-analysis, randomized controlled trial, systematic reviews, reviews, and practice guideline or, if none is specific, any of the above.</li>
+<li>Queries can be submitted as single terms or complex phrases in one of the languages listed below.</li>
+<li>The search interface changes to allow search terms to be entered in the chosen language.</li>
+<li>Typing accents or other diacritical marks is optional.</li>
+<li>Queries are transformed into English. Results are MEDLINE/PubMed citations published in any one or more of the listed languages, as specified by the user.</li>
+<li>Links to full-text articles, if available for free, are included in the search results.</li>
+</ul>
+<p class="project-text">PICO Linguist is available at the main screen of PubMed for Handhelds ( <u><a id="anch_156" href="http://pubmedhh.nlm.nih.gov/">http://pubmedhh.nlm.nih.gov</a></u>&nbsp;).</p><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a1383">API: Semantic Knowledge Representation.</button></h2><div id="project-a1383" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Mork J.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">Use UMLS resources in developing effective natural language processing systems that provide semantic interpretation to support innovative information management applications in the biomedical domain. The SKR_API provides access to the entire suite of SKR tools including MetaMap, Medical Text Indexer (MTI), and SemRep, and allows programmatic access to the SKR Batch and Interactive facilities allowing users to submit data and receive results from within their own application(s).</p>
+<ul>
+<li>API: <a id="anch_158" href="https://lhncbc.nlm.nih.gov/ii/tools/SemRep_SemMedDB_SKR.html">https://lhncbc.nlm.nih.gov/ii/tools/SemRep_SemMedDB_SKR.html</a></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a1384">Web Interface: Genetics Home Reference.</button></h2><div id="project-a1384" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Morrison SM.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">Genetic conditions and the genes or chromosomes responsible. Method for creating links or downloading Genetics Home Reference data in XML format. This service contains consumer information about genetic conditions, genes, and chromosome related to those conditions.</p>
+<ul>
+<li>Web Interface: <a id="anch_159" href="http://ghr.nlm.nih.gov/LinkingTo">https://ghr.nlm.nih.gov/LinkingTo</a></li>
+<li>Terms and Conditions: <a id="anch_160" href="http://ghr.nlm.nih.gov/TermsAndConditions">https://ghr.nlm.nih.gov/TermsAndConditions</a></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a1480">Web Interface: Consensus Abstracts.</button></h2><div id="project-a1480" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Fontelo P.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">Consensus Abstracts is a Web interface formatted for wireless mobile devices (for example, cell phones, smartphones, and tablet computers) for searching MEDLINE/PubMed.</p>
+<p class="project-text">It is available through&nbsp;PubMed for Handhelds (&nbsp;<u><a id="anch_161" href="http://pubmedhh.nlm.nih.gov/">https://pubmedhh.nlm.nih.gov</a></u>&nbsp;), from which either askMEDLINE or PICO can be used to initiate a Consensus Abstracts search:</p>
+<ul>
+<li>With askMEDLINE, a user enters free-text, natural language terms. An example is &ldquo;For a child with acute abdominal pain, will analgesics mask the diagnosis of acute appendicitis?&rdquo;</li>
+<li>From PICO&nbsp;(Patient, Intervention, Comparison, and Outcome), a user fills in one or more of a Medical condition, an Intervention (therapy, diagnostic text, etc.), an optional Compare to, and an optional Outcome. The user can also select a publication type from among Clinical Trial, Meta-Analysis, Randomized Controled Trial, Systematic Reviews, and Review, and Practice Guideline.</li>
+</ul>
+<p class="project-text">Consensus Abstracts displays retrieved MEDLINE/PubMed articles as a list of journal citations (author, title, publication date, PubMed ID). A checkbox next to each item allows the user to choose citations of interest or, if the first series of articles are acceptable, those articles can be selected for display through a "Submit" button, or the exact number of articles can be entered.</p>
+<p class="project-text">Consensus Abstracts then presents, on a results Web page,&nbsp;the summaries of each abstract found by The Bottom Line (TBL) (also available through PubMed for Handhelds); the search terms and publication types are also displayed. TBL results and full abstracts can also be displayed on the results page by clicking on links, so a user doesn't have to leave that page. Full-text articles, if available, and lists of related articles can be retrieved through links from citations.</p><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a1481">Web Interface: PICO (Patient, Intervention, Comparison, and Outcome).</button></h2><div id="project-a1481" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Fontelo P.</p><hr><strong>Abstract:</strong><p class="project-text"></p>PICO
+ (Patient, Intervention, Comparison, and Outcome)is a 
+fill-in-the-blank Web interface for searching MEDLINE/PubMed for 
+information about conditions and diseases, interventions, comparisons of
+ interventions (optional), and outcomes (also optional). A 
+dropdownmenu prompts for publication type from among clinical 
+trials, meta-analyses, systematic reviews, practice guidelines, or, if 
+none is specified, any of the above. PICO returns MEDLINE/PubMed 
+articles responsive to the input.
+PICO can also be used to structure literature searches.
+PICO is available through PubMed for 
+Handhelds:http://pubmedhh.nlm.nih.gov<p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a1521">Web Interface: askMEDLINE.</button></h2><div id="project-a1521" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Fontelo P.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text"><em style="padding: 0px; margin: 0px;">ask</em>MEDLINE is a free-text natural language query tool to search for and retrieve relevant citations in MEDLINE/PubMed.</p>
+<ul>
+<li>Web Interface:&nbsp;<u><a id="anch_168" href="http://askmedline.nlm.nih.gov/">http://askmedline.nlm.nih.gov/</a></u></li>
+</ul>
+<p class="project-text">It is also available through PubMed for Handhelds:</p>
+<ul>
+<li>Mobile App:&nbsp;<u><a id="anch_169" style="color: #1e4193; text-decoration: none; padding: 0px; margin: 0px;" href="http://pubmedhh.nlm.nih.gov/">http://pubmedhh.nlm.nih.gov</a></u></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a1574">Web Interface: RxNav.</button></h2><div id="project-a1574" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Bodenreider O.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">RxNav is a browser for several drug information sources, including RxNorm, RxTerms and NDF-RT. RxNav finds drugs in RxNorm from the names and codes in its constituent vocabularies. RxNav displays links from clinical drugs, both branded and generic, to their active ingredients, drug components and related brand names. RxNav also provides lists of NDC codes and links to package inserts in DailyMed. The RxTerms record for a given drug can be accessed through RxNav, as well as clinical information from NDF-RT, including pharmacologic classes, mechanisms of action, physiologic effects and drug-drug interactions.</p>
+<ul>
+<li>Web Interface: <a id="anch_170" href="http://rxnav.nlm.nih.gov/">https://rxnav.nlm.nih.gov/</a></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a1758">Mobile App: PubMed for Handhelds.</button></h2><div id="project-a1758" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Fontelo P.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">PubMed for Handhelds brings the information in NLM's MEDLINE/PubMed to the point of care via devices like smart phones. It includes <em>ask</em>MEDLINE to search by text message, PICO (Patient, Intervention, Comparison, and Outcome) to apply clinical filters, and The Bottom Line and Consensus Abstracts to view summary abstracts.</p>
+<ul>
+<!--<li>Mobile App: <u><a id="anch_171" style="color: #1e4193; text-decoration: none; padding: 0px; margin: 0px;" href="https://pubmedhh.nlm.nih.gov/itunes.html">https://pubmedhh.nlm.nih.gov/itunes.html</a></u></li> -->
+<li>For Android smartphones, PubMed for Handhelds can be downloaded from Google Play <u><a href="https://play.google.com/store/apps/details?id=gov.nih.nlm.lhc.pubmed4hh" title="PubMed for Handhelds Google Play store link">https://play.google.com/store/apps/details?id=gov.nih.nlm.lhc.pubmed4hh</a></u></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a1900">Software: Insight Toolkit (ITK): Software for Image Segmentation and Registration.</button></h2><div id="project-a1900" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Lowekamp B, Yoo TS.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">The Insight Toolkit (ITK) is&nbsp;an open-source software toolkit for performing registration (alignment) and segmentation (partitioning) of biomedical image data. It was developed&nbsp;under contract to NLM&nbsp;by three commercial&nbsp;partners&nbsp;(Kitware, GE Corporate R&amp;D, and Insightful) and three academic partners&nbsp;(UNC Chapel Hill, University of Utah, and University of Pennsylvania). ITK supports NLM's <u><a id="anch_172" title="Visible Human Project&reg;" href="https://www.nlm.nih.gov/research/visible/visible_human.html">Visible Human Project&reg;</a></u>.</p>
+<ul>
+<li>Download ITK software: <u><a title="External Link: Please review our privacy policy" id="anch_173" href="http://www.itk.org/ITK/resources/software.html">http://www.itk.org/ITK/resources/software.html</a></u></li>
+<li>Download SimpleITK software:&nbsp;<u><a id="anch_174" href="http://www.kitware.com/news/home/browse/ITK?2013_02_18&amp;SimpleITK+0.6.1+is+Now+Available+for+Download%21">http://www.kitware.com/news/home/browse/ITK?2013_02_18&amp;SimpleITK+0.6.1+is+Now+Available+for+Download%21</a></u></li>
+<li>Copyright and license: <u><a title="External Link: Please review our privacy policy" id="anch_175" href="http://www.itk.org/ITK/project/license.html">http://www.itk.org/ITK/project/license.html</a></u></li>
+<li>Learn more: <u><a title="External Link: Please review our privacy policy" id="anch_176" href="http://itk.org">http://itk.org</a></u></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a1909">Web Interface: MyMorph.</button></h2><div id="project-a1909" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Lingappa G, Thoma GR, Antani SK.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">The U.S. National Library of Medicine's (NLM) document conversion tool MyMorph makes the exchange and use of biomedical library electronic information easier for librarians, library users, and the general public. The MyMorph service is a free, secure and anonymous conversion tool that allows users to convert the following widely used input file types into alternative, usable formats. The following input file types are most often uploaded by users for conversion TIFF, TIF, Multi-page TIFF&rsquo;s, PDF, JPEG, JPG, BMP, and PNG. Each file of these types can be converted to any of TIF, Multipage TIFF&rsquo;s, PDF, JPEG, JPG, BMP or PNG. The downloadable MyMorph&nbsp;client&nbsp;software&nbsp;supports batch processing that allows for mass&nbsp;migration of files to any of the above desired target format.</p>
+<p class="project-text">My Morph replaces the discontinued DocMorph and DocView. MyMorph was developed through document imaging research and development at the NLM Lister Hill National Center for Biomedical Communications, <a id="anch_177" title="Communications Engineering Branch" href="https://wayback.archive-it.org/7867/20200424065859/https://lhncbc.nlm.nih.gov/branch/communications-engineering-branch">Communications Engineering Branch</a>.</p>
+<p class="project-text"><strong>MyMorph Project</strong>: <a id="anch_179" title="MyMorph Project archive link" href="https://wayback.archive-it.org/7867/20200425210435/https://lhncbc.nlm.nih.gov/node/6690">Archived Link</a></p><p>&nbsp;</p><p></p><br></div></div></div><div class="usa-accordion"><div class="usa-accordion usa-accordion--bordered"><h2 class="usa-accordion__heading"><button class="usa-accordion__button" aria-expanded="false" aria-controls="project-a1922">Dataset: Visible Human Project Reference Data Sets.</button></h2><div id="project-a1922" class="usa-accordion__content usa-prose margin-0" hidden=""><p class="project-text">Author: Ackerman MJ.</p><hr><strong>Abstract:</strong><p class="project-text"></p><p class="project-text">The publicly-available Visible Human Project reference data sets are complete, anatomically detailed, three-dimensional representations of normal male and female human bodies. They include transverse CT, MR, and cryosection images.&nbsp;The male was sectioned at one millimeter intervals, the female at one-third of a millimeter intervals. The data sets are used in education, diagnosis, treatment planning, virtual reality, and virtual surgeries.</p>
+<ul>
+<li>Description, access information, and license agreement documents: &nbsp;<u><a id="anch_180" href="http://www.nlm.nih.gov/research/visible/getting_data.html">http://www.nlm.nih.gov/research/visible/getting_data.html</a></u></li>
+</ul><p>&nbsp;</p><p></p><br></div></div></div>
+        
+ </div>
+           </div>
+         </div>
+      </div>
+ 
+</div></div>
+          </div>
+        </div>
+      </div>
+      
+      <script>
+      $( document ).ready(function() {
+      setTimeout(function() {
+        $( ".downloadsButton" ).removeClass( "downloadsButton" ).addClass( "usa-current" );
+       }, 500);
+      });
+</script> 
+<script src="/assets/javascript/downloadspage.js"></script> 
+  
+
+
+  <footer class="bg-primary text-white insertfooter">
+  
+  
+  <div class="container-fluid">
+  <div class="container pt-5">
+    <div class="row mt-3">
+      <div class="col-md-3 col-sm-6 col-6">
+        <p><a href="https://www.nlm.nih.gov/socialmedia/index.html" class="text-white">Connect with NLM</a></p>
+        <ul class="list-inline social_media">
+          <li class="list-inline-item"><a title="External link: please review our privacy policy." href="https://twitter.com/NLM_NIH"><img src="//www.nlm.nih.gov/images/Twitter_W.svg" class="img-fluid" alt="Twitter"></a></li>
+          <li class="list-inline-item"><a title="External link: please review our privacy policy." href="https://www.facebook.com/nationallibraryofmedicine"><img src="//www.nlm.nih.gov/images/Facebook_W.svg" class="img-fluid" alt="Facebook"></a></li>
+          <li class="list-inline-item"><a title="External link: please review our privacy policy." href="https://www.youtube.com/user/NLMNIH"><img src="//www.nlm.nih.gov/images/YouTube_W.svg" class="img-fluid" alt="You Tube"></a></li>
+        </ul>
+      </div>
+      <div class="col-md-3 col-sm-6 col-6">
+        <p class="address_footer text-white"> National Library of Medicine <br>
+          <a href="https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/@38.9959508,-77.101021,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb:0x19156f88b27635b8!8m2!3d38.9959508!4d-77.0988323" class="text-white"> 8600 Rockville Pike <br>
+          Bethesda, MD 20894 </a></p>
+      </div>
+      <div class="col-md-3 col-sm-6 col-6">
+        <p><a href="https://www.nlm.nih.gov/web_policies.html" class="text-white"> Web Policies </a><br>
+          <a href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office" class="text-white"> FOIA </a><br><a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" class="text-white">HHS Vulnerability Disclosure</a></p>
+      </div>
+      <div class="col-md-3 col-sm-6 col-6">
+        <p><a class="supportLink text-white" href="//support.nlm.nih.gov?from="> NLM Support Center </a> <br>
+          <a href="https://www.nlm.nih.gov/accessibility.html" class="text-white"> Accessibility </a><br>
+          <a href="https://www.nlm.nih.gov/careers/careers.html" class="text-white"> Careers </a></p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <p class="mt-2 text-center"> <a class="text-white" href="//www.nlm.nih.gov/">NLM</a> | <a class="text-white" href="https://www.nih.gov/">NIH</a> | <a class="text-white" href="https://www.hhs.gov/">HHS</a> | <a class="text-white" href="https://www.usa.gov/">USA.gov</a></p>
+      </div>
+    </div>
+  </div>
+</div> 
+
+
+  
+   
+   </footer>
+<script>
+var dynHeader = "/lhcHeader.frag";
+</script>
+<script src="/assets/javascript/popper-1.14.7.min.js"></script>
+<script src="/assets/uswds-2.4.0/js/uswds.min.js"></script>
+<script src="/assets/javascript/headerfooter.js"></script>
+
+
+ 
+
+<script src="/assets/javascript/jquery.twbsPagination.min.js"></script>
+<script src="/assets/javascript/supportLink.js"></script>
+<script src="//www.nlm.nih.gov/core/nlm-notifyExternal/1.0/nlm-notifyExternal.min.js"></script>  
+</body>  
+
